@@ -1,3 +1,1 @@
-Login Functionality DEV is in progress
-
-50% DEV completed
+Login Functionality DEV is in progress.
